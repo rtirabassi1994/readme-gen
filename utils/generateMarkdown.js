@@ -6,23 +6,51 @@
 // function to generate markdown for README- all done!- maybe i can remember 
 function generateMarkdown(data) {
   return `
+  
+  # ${data.projectTitle}
+  
+  ## Username and Email
+  ***
   [github.com/${data.github}](github.com/${data.github})
 
   <${data.email}>
-
-  ${data.projectTitle}
-
-  ${data.projectInstallation}
   
-  ${data.projectTest}
-
-  ${data.projectUsage}
-
-  ${data.projectContributing}
-
-  ${data.projectLicense}
+  ## Descriptiom
+  ***
 
   ${data.projectDescription}
+
+## Table of Contents
+***
+- ['Installation'] (#Installation) 
+- ['Usage'] (#Usage)
+- ['License'] (#License)
+- ['Contributing'] (#Contributing)
+- ['Tests'] (#Tests)
+  
+
+  ## Installation
+  ***
+  ${data.projectInstallation}
+  
+  ## Usage
+  ***
+  ${data.projectUsage}
+  
+  ## License
+  ***
+  ${data.projectLicense}
+  
+  ## Tests
+  ***
+  ${data.projectTest}
+
+  ## Contributing
+  ***
+  ${data.projectContributing}
+
+  
+
 `;
 }
 
