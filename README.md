@@ -9,9 +9,7 @@
   <tirabassi.rachel@gmail.com>
   
   ## Descriptiom
-  ***
-
-  Example of description
+  This application runs with Node.js and creates a README.md based on how the user fills out the input about their project.
 
 ## Table of Contents
 ***
@@ -24,11 +22,21 @@
 
   ## Installation
   ***
-  Example of install dependencies
+  
+  ![package.json example](packagejson.jpg "Installation Example")
+  
+  First, run "npm install" to install the following npm package dependencies from package.json:
+
+  -Inquirer 
+  -node index.js
   
   ## Usage
   ***
-  Repo Example
+  Watch the video for instruction [here.](https://drive.google.com/file/d/1XADh0DLbJx28ajI5I17AutiP5sABIUg8/view)
+
+
+  
+
   
   ## License
   ***
