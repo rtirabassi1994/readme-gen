@@ -4,7 +4,7 @@
   
   ## Username and Email
   ***
-  - <github.com/rtirabassi1994><br>
+  - github.com/rtirabassi1994<br>
 
   - <tirabassi.rachel@gmail.com>
   
