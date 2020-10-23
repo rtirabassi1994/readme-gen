@@ -4,20 +4,20 @@
   
   ## Username and Email
   ***
-  -[github.com/rtirabassi1994](github.com)<br>
+  - <github.com/rtirabassi1994><br>
 
-  -<tirabassi.rachel@gmail.com>
+  - <tirabassi.rachel@gmail.com>
   
   ## Descriptiom
   This application runs with Node.js and creates a README.md based on how the user fills out the input about their project.
 
 ## Table of Contents
 ***
-- [Installation] (#Installation) 
-- [Usage] (#Usage)
-- [License] (#License)
-- [Contributing] (#Contributing)
-- [Tests] (#Tests)
+- Installation
+- Usage
+- License
+- Contributing
+- Tests
   
 
   ## Installation
