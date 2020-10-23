@@ -4,9 +4,9 @@
   
   ## Username and Email
   ***
-  [github.com/rtirabassi1994](github.com/rtirabassi1994)
+  -[github.com/rtirabassi1994](github.com/rtirabassi1994)<br>
 
-  <tirabassi.rachel@gmail.com>
+  -<tirabassi.rachel@gmail.com>
   
   ## Descriptiom
   This application runs with Node.js and creates a README.md based on how the user fills out the input about their project.
@@ -23,11 +23,11 @@
   ## Installation
   ***
   
-  ![package.json example](packagejson.jpg "Installation Example")
+  ![package.json example](/packagejson.JPG "Installation Example")<br>
   
-  First, run "npm install" to install the following npm package dependencies from package.json:
+  First, run "npm install" to install the following npm package dependencies from package.json: <br>
 
-  -Inquirer 
+  -Inquirer <br>
   -node index.js
   
   ## Usage
