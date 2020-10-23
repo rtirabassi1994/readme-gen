@@ -4,7 +4,7 @@
   
   ## Username and Email
   ***
-  -[github.com/rtirabassi1994](github.com/rtirabassi1994)<br>
+  -[github.com/rtirabassi1994](github.com)<br>
 
   -<tirabassi.rachel@gmail.com>
   
@@ -13,11 +13,11 @@
 
 ## Table of Contents
 ***
-- ['Installation'] (#Installation) 
-- ['Usage'] (#Usage)
-- ['License'] (#License)
-- ['Contributing'] (#Contributing)
-- ['Tests'] (#Tests)
+- [Installation] (#Installation) 
+- [Usage] (#Usage)
+- [License] (#License)
+- [Contributing] (#Contributing)
+- [Tests] (#Tests)
   
 
   ## Installation
@@ -27,28 +27,30 @@
   
   First, run "npm install" to install the following npm package dependencies from package.json: <br>
 
-  -Inquirer <br>
-  -node index.js
+  - Inquirer <br>
+  - node index.js
   
   ## Usage
   ***
-  Watch the video for instruction [here.](https://drive.google.com/file/d/1XADh0DLbJx28ajI5I17AutiP5sABIUg8/view)
+  Watch the video for instruction [here.](https://drive.google.com/file/d/1XADh0DLbJx28ajI5I17AutiP5sABIUg8/view)<br>
 
+  Run node index.js and the app will use the inquirer package to prompt you in the command line with a series of questions about your project.<br>
 
-  
+  The application then creates a markdown of your responses. <br>
 
-  
+  fs.writeFile is used to create your project's README.md file.
+
   ## License
   ***
-  None
+  MIT
   
   ## Tests
   ***
-  Tests example
+  run npm tests
 
   ## Contributing
   ***
-  Contributions Example
+  If you'd like contribute or use this to generate a README.md please reach out at tirabassi.rachel@gmail.com.
 
   
 

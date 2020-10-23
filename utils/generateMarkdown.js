@@ -11,7 +11,7 @@ function generateMarkdown(data) {
   
   ## Username and Email
   ***
-  [github.com/${data.github}](github.com/${data.github})
+  [github.com](github.com/${data.github})
 
   <${data.email}>
   
@@ -22,11 +22,11 @@ function generateMarkdown(data) {
 
 ## Table of Contents
 ***
-- ['Installation'] (#Installation) 
-- ['Usage'] (#Usage)
-- ['License'] (#License)
-- ['Contributing'] (#Contributing)
-- ['Tests'] (#Tests)
+- Installation 
+- Usage
+- License
+- Contributing
+- Tests
   
 
   ## Installation
